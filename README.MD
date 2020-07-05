@@ -14,6 +14,8 @@
     Content
     Aside
     Footer
+    Added alt codes to images
+    Included Figure title to image.
 
 #### Checking the links, the Search Engine Optimization link in the nav bar was not working correctly.
     Missing ID in content
@@ -29,7 +31,16 @@
     Footer
     
 #### Consolidated Styling Properties
-    
+    Article section
+    Benefits section
 
-        
+Before this project, I had very little understanding of what was expected in professional HTML, and CSS files. After many hours of research I found the answers, and expectations, which allowed me to confidently refactor the given project. I was able to optimize the code, and make it considerably easie to read. Additionally I leared a bit about accessibility standards and expectations. Looking at the project now it is incredible how much easier it is to look thorugh the code and see what changes I can make and where they are on the actual webpage.
    
+
+## Contributing
+Pull requests are welcome. I will not be reviewing any changes from any unknown source.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
