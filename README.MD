@@ -40,7 +40,5 @@ Before this project, I had very little understanding of what was expected in pro
 ## Contributing
 Pull requests are welcome. I will not be reviewing any changes from any unknown source.
 
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
